@@ -42,7 +42,7 @@
     "firebase": "^7.11.0",
     "jquery": "^3.4.1",
     "moment": "^2.24.0",
-    "node-sass": "4.13.1",
+    "node-sass": "7.0.0",
     "nouislider": "14.1.1",
     "plugins": [
       "emotion"
